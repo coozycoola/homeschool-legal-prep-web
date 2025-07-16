@@ -1,4 +1,4 @@
-# Homeschool Hour Tracker - Web Hosting
+# Homeschool Legal Prep - Web Hosting
 
 This folder contains the web hosting files for the password reset functionality.
 
